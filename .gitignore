@@ -22,10 +22,11 @@ evaluation/*/data/
 evaluation/*/data/*
 evaluation/**/data/
 
-.env
 
 terminal_tmp/*
 
 !tool_docs.csv
 
 .port*
+config.bat
+node_modules
